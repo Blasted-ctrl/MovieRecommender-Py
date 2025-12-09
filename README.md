@@ -48,3 +48,5 @@ Your project expects two CSV files:
 File	Description
 movies.csv	Contains movieId, title, genres
 ratings.csv	Contains userId, movieId, rating
+
+<img width="1067" height="605" alt="Screenshot 2025-12-09 021613" src="https://github.com/user-attachments/assets/152ae314-10dc-4287-a40e-0cf4369bb15c" />
